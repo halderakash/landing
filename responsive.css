@@ -1,0 +1,39 @@
+@media (max-width: 1400px) and (min-width: 993px){
+    .port-sec img{
+        height: 250px;
+        width: 250px;
+    }
+}
+@media (max-width:992px) and (min-width: 769px) {
+    .banner-section h4{
+        font-size: 32px;
+    }
+    .banner-section h5{
+        font-size: 25px;
+    }
+    .port-sec img{
+        height: 200px;
+        width: 200px;
+    }
+}
+@media (max-width: 768px) and (min-width: 577px){
+    .banner-section h4{
+        font-size: 28px;
+    }
+    .banner-section h5{
+        font-size: 23px;
+    }
+
+}
+
+@media (max-width: 576px){
+    .banner-section h4{
+        font-size: 20px;
+    }
+    .banner-section h5{
+        font-size: 16px;
+    }
+    .port-sec img{
+        width: 100%;
+    }
+}
